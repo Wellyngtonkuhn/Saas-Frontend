@@ -4,3 +4,6 @@
 
 - Será um sistema para conectar pessoas ao redor do mundo e automatizar serviços.
 - Em breve mais novidades
+
+
+[] Configurar o Styled-compoents para o SSR

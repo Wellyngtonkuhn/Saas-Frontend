@@ -1,5 +1,5 @@
-"use client";
 import { GlobalStyle } from "../../../styles/global";
+import HeaderWebSite from "./components/Header";
 
 export const metadata = {
   title: "Create Next App",
@@ -14,11 +14,7 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <body>
-        <ul>
-          <li>a</li>
-          <li>a</li>
-          <li>a</li>
-        </ul>
+        <HeaderWebSite />
 
         {children}
       </body>
