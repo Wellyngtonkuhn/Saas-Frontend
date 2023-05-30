@@ -1,4 +1,4 @@
-import { Container } from "../../../../styles/Container";
+import { Container } from "styles/Container"; 
 import { MainHome, Content } from "./style";
 
 export default function Home() {

@@ -1,5 +1,5 @@
 import StyledComponentsRegistry from "@/lib/StyledComponentsRegistry";
-import { GlobalStyle } from "../../../styles/global";
+import { GlobalStyle } from "styles/global";
 import HeaderWebSite from "./components/Header";
 import FooterWebSite from "./components/footer";
 

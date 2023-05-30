@@ -2,7 +2,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { Content, Header, MobileBurguer, Nav } from "./styled";
-import { Container } from "../../../../../styles/Container";
+import { Container } from "styles/Container"; 
 import { FiMenu, FiX } from "react-icons/fi";
 
 export default function HeaderWebSite() {
